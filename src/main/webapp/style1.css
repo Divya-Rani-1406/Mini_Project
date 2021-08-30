@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+body{
+	background-image:url("image-8.jpg");
+	background-blend-mode:normal;
+	background-repeat:no-repeat;
+	height:680px;
+	background-size:cover;
+	}
+#txt{
+	font-family:calibri;
+	font-size:54px;
+	color:black;
+	padding-top:300px;
+}
